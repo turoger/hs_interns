@@ -7,6 +7,9 @@ To run these notebooks, please install `pip` and create a virtual environment.  
 # Notebooks
 1. DNA replication, transcription, and translation.
 2. DNA motif analysis
+3. All about mRNA
+4. All about APIs
+5. Data handling and visualization
 
 # Notebooks with Answers
 
